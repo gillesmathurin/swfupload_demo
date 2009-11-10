@@ -20,8 +20,8 @@ Rails::Initializer.run do |config|
   # config.gem "hpricot", :version => '0.6', :source => "http://code.whytheluckystiff.net"
   # config.gem "sqlite3-ruby", :lib => "sqlite3"
   # config.gem "aws-s3", :lib => "aws/s3"
-  config.gem 'chriseppstein-compass', :lib => 'compass', :source => 'http://gems.github.com/'
-  config.gem 'haml', :lib => 'haml', :version => '>=2.2.0'
+  # config.gem 'chriseppstein-compass', :lib => 'compass', :source => 'http://gems.github.com/'
+  # config.gem 'haml', :lib => 'haml', :version => '>=2.2.0'
   config.gem 'thoughtbot-paperclip', :lib => 'paperclip', :source => 'http://gems.github.com'
   config.gem 'ruby-mp3info', :lib => "mp3info"
   config.gem 'mime-types', :lib => "mime/types"
